@@ -1,0 +1,51 @@
+
+
+header {
+    background-color: #f5f5dc;
+    border-bottom: 2px solid #000000;
+    padding: 5px;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+footer {
+    background-color: #f5f5dc;
+    border-top: 2px solid #000000;
+    padding: 5px;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cabeçalho {
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+.eu {
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+.corpo {
+    text-align: center;
+}
+
+.rodape {
+    text-align: center;
+}
+
+img {
+    width: 15%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border-radius: 30%;
+}
+
+a {
+    text-decoration: none; 
+    color: #333; 
+}
+
+a:hover {
+    color: #b44d4d; 
+}
